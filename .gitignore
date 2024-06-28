@@ -1,0 +1,14 @@
+/*
+
+!.gitignore
+
+!LICENSE
+!README.md
+!flake.lock
+!flake.nix
+
+!core/
+!hosts/
+!modules/
+!secrets/
+!strap/
