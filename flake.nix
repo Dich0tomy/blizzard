@@ -14,6 +14,8 @@
       perSystem = _: {
         imports = [
           ./strap
+          ./packages
+          ./overlays
         ];
       };
     };

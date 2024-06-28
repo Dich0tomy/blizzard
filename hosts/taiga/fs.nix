@@ -3,7 +3,7 @@
   config,
   ...
 }: let
-  cfg = config.taga.fs;
+  cfg = config.taiga.fs;
 in {
   options.taiga.fs = {
     mountData = lib.mkOption {
